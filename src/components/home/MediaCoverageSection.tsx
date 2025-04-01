@@ -97,7 +97,7 @@ const MediaCoverageSection = () => {
 
         <div className="text-center mt-12">
           <Link
-            href="/aboutus"
+            href="#"
             className="inline-block text-altor-light-blue hover:text-white transition-colors text-lg font-medium"
           >
             Learn More About Us
