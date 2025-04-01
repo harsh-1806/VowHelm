@@ -6,9 +6,9 @@ import { ThemeProvider } from '@/components/providers/ThemeProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Altor Smart Mobility | Smart Helmets and Safety Technology',
+    title: 'VowHelm | Syed Ka Helmet Private Limited',
     description:
-        'Altor Smart Mobility offers innovative smart helmets with accident detection, SOS alerts, and hands-free communication for safer motorcycle rides.',
+        'Ensure your safety with VowHelm, the smart helmet that alerts you to dangers and helps you stay safe on the road.',
     keywords:
         'smart helmet, motorcycle safety, SOS alerts, accident detection, rider safety, Altor',
 }

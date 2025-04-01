@@ -93,8 +93,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$provide
 ;
 ;
 const metadata = {
-    title: 'Altor Smart Mobility | Smart Helmets and Safety Technology',
-    description: 'Altor Smart Mobility offers innovative smart helmets with accident detection, SOS alerts, and hands-free communication for safer motorcycle rides.',
+    title: 'VowHelm | Syed Ka Helmet Private Limited',
+    description: 'Ensure your safety with VowHelm, the smart helmet that alerts you to dangers and helps you stay safe on the road.',
     keywords: 'smart helmet, motorcycle safety, SOS alerts, accident detection, rider safety, Altor'
 };
 function RootLayout({ children }) {
